@@ -1,0 +1,77 @@
+body{
+    width: 100%;
+    height: 1000px;
+    background-color:white; height: 100vh;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(360deg, rgb(143, 217, 235), rgb(255, 255, 255));
+    font-family: verdana;
+    }
+    
+    h1, p { padding: 0 0 0 60
+    
+     
+    }
+    
+    form {
+    width: 300; 
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 5px;
+    }
+    .radio {
+    display: inline;
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    
+    }
+    label {
+    display: block; 
+    margin-top: 10px; 
+    padding: 5px ;
+    } 
+    .why{ 
+    padding: 0 50  0
+    }
+    .fix {
+    padding: 0 55 0 0
+    }
+     
+   .number {width: 500pxpx;}
+    
+    select {
+    margin-left: 130px;
+    display: block
+    }
+   .two {margin-top: 30px;
+    }
+    fieldset {
+    height: 200px; 
+    border: none; 
+    border-bottom: 1px solid grey;
+    }
+    input {
+    display: block; 
+    margin-left: 110px; 
+    width: 200;
+    }
+   .fieldset1 {
+   padding: 2rem 0
+}
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+}
+
+fieldset:last-of-type {
+    border-bottom: none; 
+    padding-bottom: padding 50px;
+}
+
+.submit {
+background-color: #1abced;
+border: none
+}
